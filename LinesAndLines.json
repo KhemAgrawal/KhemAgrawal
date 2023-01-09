@@ -1,7 +1,7 @@
 {
   "name": "LinesAndLines",
   "version": "1.0",
-  "description": "Lines And Lines And Lines theme :)",
+  "description": "Vamp Anime Girl",
   "authors": [
     {
       "name": "melonwer",
@@ -11,7 +11,7 @@
   "theme_color_map": {
     "KEYBOARD": [
       "#1a1926",
-      "#FFFFFF"
+      "#000000"
     ],
     "HEADER_PRIMARY": [
       "#FBFBFB",
@@ -21,7 +21,7 @@
       "#B6B6B6",
       "#FFFFFF"
     ],
-    "TEXT_NORMAL": [
+   "TEXT_NORMAL": [
       "#FBFBFB",
       "#FFFFFF"
     ],
@@ -30,15 +30,15 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#7f239e",
+      "#8f150a",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#DCDDDE",
+      "#6b0000",
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#af65f0",
+      "#d62515",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
@@ -91,7 +91,7 @@
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "#171717",
-      "#FFFFFF"
+      "#542ca3"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
       "#171717",
@@ -122,7 +122,7 @@
       "#FFFFFF"
     ],
     "CHANNELS_DEFAULT": [
-      "#aa14f5",
+      "#ed2828",
       "#FFFFFF"
     ],
     "TEXT_LINK": [
@@ -130,7 +130,7 @@
       "#6c56c4"
     ],
     "CHANNEL_ICON": [
-      "#aa14f5",
+      "#d62515",
       "#6c56c4"
     ]
   },
@@ -140,6 +140,7 @@
     "PRIMARY_DARK_200": "#ffffff",
     "PRIMARY_DARK_300": "#B6B6B6",
     "PRIMARY_DARK_360": "#C8C8C8",
+    "PRIMARY_DARK_365": "#000000",
     "PRIMARY_DARK_400": "#C8C8C8",
     "PRIMARY_DARK_500": "#0c0c0c",
     "PRIMARY_DARK_600": "#171717",
@@ -153,7 +154,7 @@
   },
   "background": {
     "blur": 0.1,
-    "url": "https://media.discordapp.net/attachments/993255367167451307/1061600774121078834/IMG_6201.jpg",
+    "url": "https://media.discordapp.net/attachments/1008380094953295933/1008434625007321098/mp7_and_mp7_girls_frontline_drawn_by_ru_zhai__ab50d52554f88b92a46eb7b4bc508795.jpg",
     "alpha": 1.0
   }
 }
